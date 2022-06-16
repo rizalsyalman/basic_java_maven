@@ -32,4 +32,4 @@ jobs:
           -Dsonar.host.url=https://sonarcloud.io
           -Dsonar.organization=rizalsyalman
           -Dsonar.projectKey=rizalsyalman_basic_java_maven
-          
+        
